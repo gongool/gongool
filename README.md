@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Software Engineer | 💡 Creative Problem Solver | 💻 Tech Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.gongool.dev"><img src="https://img.shields.io/badge/Website-gongool.dev-blue?style=flat-square&logo=google-chrome"></a>
+  <a href="https://www.ahmedjamal.dev"><img src="https://img.shields.io/badge/Website-gongool.dev-blue?style=flat-square&logo=google-chrome"></a>
   <a href="https://github.com/gongool"><img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social"></a>
 </p
 
