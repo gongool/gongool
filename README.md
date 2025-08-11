@@ -1,15 +1,22 @@
+<div align="center">
+
 # Ahmed Jamal
 
-**Software Engineer | Creative Problem Solver**
+**Your One-Stop Digital Solution Partner**
 
-Building innovative solutions with modern technologies and clean code practices.
+*Transforming ideas into digital reality through innovative technology and thoughtful design*
 
-## Connect
+<br>
 
-[![Website](https://img.shields.io/badge/Website-ahmedjamal.dev-blue?style=flat-square&logo=google-chrome)](https://www.ahmedjamal.dev)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gongoool/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gongool@hotmail.com)
+[![Website](https://img.shields.io/badge/ahmedjamal.dev-Visit%20Portfolio-00D4AA?style=for-the-badge&logoColor=white)](https://www.ahmedjamal.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/gongoool/)
+[![Email](https://img.shields.io/badge/Contact-Let's%20Collaborate-EA4335?style=for-the-badge&logoColor=white)](mailto:gongool@hotmail.com)
+
+<br>
+> "Code is poetry written in logic"
 
 ---
 
-Open to collaboration and interesting conversations.
+**Always open to meaningful collaborations and inspiring conversations.**
+
+</div>
