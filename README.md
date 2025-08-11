@@ -9,8 +9,4 @@
 
 ---
 
-> *"Code is poetry written in logic"*
-
----
-
 **Always open to meaningful collaborations and inspiring conversations.**
